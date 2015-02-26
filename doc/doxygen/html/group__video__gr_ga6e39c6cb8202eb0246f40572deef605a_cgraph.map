@@ -1,0 +1,18 @@
+<map id="test_init" name="test_init">
+<area shape="rect" id="node2" href="$_utilities_8c.html#ac20de96855750b86775e63cde30061ab" title="sets subs_irq_set to 0 " alt="" coords="153,5,239,32"/>
+<area shape="rect" id="node3" href="$group__timer.html#ga4c5d9f47323eda494cfd826f6d62eec9" title="Subscribes and enables Timer 0 interrupts. " alt="" coords="129,56,263,83"/>
+<area shape="rect" id="node4" href="$_utilities_8c.html#a59094d64e53e3ab4df91887657b97af4" title="adds bit in indicated position to the variable subs_irq_set (keep track on subscriptions) ..." alt="" coords="167,107,225,133"/>
+<area shape="rect" id="node5" href="$group__video__gr.html#gacef21667c79365d57a084bed994c2189" title="Initializes the video module in graphics mode. " alt="" coords="167,157,225,184"/>
+<area shape="rect" id="node10" href="$timer_8c.html#acb3ab159fdc632e22481232542339d5d" title="timer_setCounter" alt="" coords="135,208,257,235"/>
+<area shape="rect" id="node11" href="$group__timer.html#ga05141fb32bbc3bf7b55f70a6e5d8ad92" title="Timer 0 interrupt handler. " alt="" coords="135,259,257,285"/>
+<area shape="rect" id="node12" href="$buffer_8c.html#a2374233b8cd8185e753ba171f3229169" title="initBuffer" alt="" coords="160,309,232,336"/>
+<area shape="rect" id="node13" href="$group__timer.html#gaf11616b6ada9bd0e4fe78add9c3a0f60" title="Gets timer value. " alt="" coords="135,360,257,387"/>
+<area shape="rect" id="node14" href="$_utilities_8c.html#a9363d5e3f8ada43cc4ee0d9ee6557d4a" title="generic interrupt handler " alt="" coords="139,411,253,437"/>
+<area shape="rect" id="node16" href="$group__video__gr.html#ga42f593e6656f1a978315aff02b1bcebf" title="Returns to default Minix 3 text mode (0x03: 25 x 80, 16 colors) " alt="" coords="165,461,227,488"/>
+<area shape="rect" id="node17" href="$group__timer.html#gab9eea51549744bca5c5c923b388bb4ee" title="Unsubscribes Timer 0 interrupts. " alt="" coords="121,512,271,539"/>
+<area shape="rect" id="node6" href="$group__vbe.html#ga92094fcd19c476dab004cd2adffb59f4" title="check_completion_status\l_value" alt="" coords="507,121,677,162"/>
+<area shape="rect" id="node7" href="$group__vbe.html#ga4ef3234e41f2050bc094a22049b69e45" title="Returns information on the input VBE mode, including screen dimensions, color depth and VRAM physical..." alt="" coords="323,185,455,212"/>
+<area shape="rect" id="node8" href="$group__lmlib.html#gae45d971ce2ffcf4dc2677eba033a92cd" title="Allocates a memory block in low memory area with the specified size. " alt="" coords="557,187,627,213"/>
+<area shape="rect" id="node9" href="$group__lmlib.html#ga73e89d9c297b7390021fb545513579c6" title="Frees a memory block in the low memory area, previously allocated using lm_alloc() ..." alt="" coords="560,237,624,264"/>
+<area shape="rect" id="node15" href="$_utilities_8c.html#aacff4eae3295196da60e495e719f7e38" title="Auxiliar function for generic handler. Calls the correct handler on the Interrupt&#39;s List..." alt="" coords="319,411,459,437"/>
+</map>

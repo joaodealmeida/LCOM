@@ -1,0 +1,6 @@
+<map id="updateBoat" name="updateBoat">
+<area shape="rect" id="node2" href="$pixmap_8c.html#acc10e1fded92bdb04800ff9ff29cdada" title="add pixmap to a list containing all loaded pixmaps " alt="" coords="148,5,232,32"/>
+<area shape="rect" id="node3" href="$group__vector2.html#gae16448e944b2b29602b9e7bd9e1d1dd5" title="snaps vector length to size one " alt="" coords="141,56,239,83"/>
+<area shape="rect" id="node5" href="$group__vector2.html#ga90ae76559378b997f71da39f2cf7d2f0" title="a=(a*f) multiply given vector by f " alt="" coords="153,107,227,133"/>
+<area shape="rect" id="node4" href="$group__vector2.html#gaa1a45613ec12be89c7ea5bfb498769f4" title="find vector length " alt="" coords="287,56,363,83"/>
+</map>

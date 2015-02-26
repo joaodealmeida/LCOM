@@ -1,0 +1,6 @@
+<map id="subscribeInterrupts" name="subscribeInterrupts">
+<area shape="rect" id="node2" href="$mouse_8c.html#a145dcc1b210d20f1797b13c706ac1455" title="Enables stream mode N packages. " alt="" coords="185,31,339,57"/>
+<area shape="rect" id="node3" href="$mouse_8c.html#ad12b54c10c894563ba05e2648dc76597" title="send command to Mouse " alt="" coords="387,31,541,57"/>
+<area shape="rect" id="node4" href="$_utilities_8c.html#a0c95caa20cc4239b851633cc3a32a75e" title="write to given port &gt; sys_out(port,arg) " alt="" coords="635,5,701,32"/>
+<area shape="rect" id="node5" href="$_utilities_8c.html#adb9c8b3e37e323ea83f00a6789867a97" title="read byte from data register &gt; sys_in(DATA_REG,&quot;ret&quot;) " alt="" coords="589,56,747,83"/>
+</map>

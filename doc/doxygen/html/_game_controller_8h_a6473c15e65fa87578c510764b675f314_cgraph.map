@@ -1,0 +1,15 @@
+<map id="stopGame" name="stopGame">
+<area shape="rect" id="node2" href="$buffer_8c.html#a20bbd4d45e3f01305dd709f5a9cc9952" title="clearBuffer" alt="" coords="169,5,252,32"/>
+<area shape="rect" id="node4" href="$_end_screen_8c.html#ae6301333a160c8000a07e91d40406452" title="freeEndScreen" alt="" coords="157,259,264,285"/>
+<area shape="rect" id="node6" href="$group__multiplayer_sync.html#gade71e3635c24b75993e3ad7021851fac" title="returns usertype (host or client) " alt="" coords="333,208,499,235"/>
+<area shape="rect" id="node7" href="$group__boat.html#ga627763f905d16a37a61359ee1e630126" title="freeBoat" alt="" coords="381,107,451,133"/>
+<area shape="rect" id="node10" href="$group__shark.html#ga2d76b32b609a492a6defaaabc58ceccc" title="free allocated memory by sharks " alt="" coords="161,56,260,83"/>
+<area shape="rect" id="node12" href="$scope_8c.html#ac7f9ded8c55b15b78b60a9aae35e16c6" title="freeScope" alt="" coords="376,157,456,184"/>
+<area shape="rect" id="node13" href="$pixmap_8c.html#a6b918d4685d9fe089f74bedb9125aca2" title="erases all allocated memory with loaded pixmaps " alt="" coords="136,360,285,387"/>
+<area shape="rect" id="node14" href="$group__sprite.html#ga8e61cc941cfd81be227fb64fe16e2e96" title="freeDrawList" alt="" coords="164,309,257,336"/>
+<area shape="rect" id="node3" href="$buffer_8c.html#aed26f97e1985d3ee24b0e92754f70bb9" title="buffer_drawPixel" alt="" coords="358,5,474,32"/>
+<area shape="rect" id="node5" href="$group__sprite.html#ga66e1c6ad2693becdd23dbeccfb063b82" title="destroys a sprite and free mem " alt="" coords="590,157,681,184"/>
+<area shape="rect" id="node8" href="$group__sprite.html#gaae9c9b35bf0dbfcc558801f7c24e064d" title="remove from the list of sprites to be draw does not free memory used by sprite " alt="" coords="547,81,724,108"/>
+<area shape="rect" id="node9" href="$sprite_8c.html#a6ef2e8d545522aec94c6630c423a585d" title="findSprite" alt="" coords="772,81,848,108"/>
+<area shape="rect" id="node11" href="$group__shark.html#ga84fc7c0ca265890027c7e647ef5e9063" title="remove shark at index " alt="" coords="367,56,465,83"/>
+</map>

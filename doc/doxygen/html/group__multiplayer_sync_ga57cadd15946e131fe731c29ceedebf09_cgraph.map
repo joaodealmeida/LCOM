@@ -1,0 +1,11 @@
+<map id="multiplayer_update" name="multiplayer_update">
+<area shape="rect" id="node2" href="$group__multiplayer_sync.html#gae291df672f0e325fc9e6de13b4002895" title="multiplayer_receive" alt="" coords="219,5,351,32"/>
+<area shape="rect" id="node7" href="$group__multiplayer_sync.html#gac3d833a0fb27c4a320c4c4bcc1d4c41b" title="process_received_inGameData" alt="" coords="184,56,385,83"/>
+<area shape="rect" id="node8" href="$group__multiplayer_sync.html#gaf92bf4768545fda45be5f1ce9244def6" title="multiplayer_send_inGameInfo" alt="" coords="189,107,381,133"/>
+<area shape="rect" id="node3" href="$test7_8c.html#a4255d896c3e9986d0f223ac42b580629" title="receive data " alt="" coords="485,5,576,32"/>
+<area shape="rect" id="node6" href="$group__multiplayer_sync.html#ga4d86e7539793e6f1111a6a1bf8c88dd5" title="multiplayer_reset_receivedInfo" alt="" coords="433,56,628,83"/>
+<area shape="rect" id="node4" href="$test7_8c.html#a6fbf6c303de0feab7f434af1789685f3" title="wait_to_be_ready" alt="" coords="676,56,799,83"/>
+<area shape="rect" id="node5" href="$uart_8c.html#ab8c01f24eaf61cedda37d4c819ef6ddb" title="uart_read" alt="" coords="847,31,923,57"/>
+<area shape="rect" id="node9" href="$test7_8c.html#aacfbb44cbc94636f6261db20d7b60f0c" title="uart_send" alt="" coords="491,107,570,133"/>
+<area shape="rect" id="node10" href="$uart_8c.html#a00cc57497344a6ca7aeb747b4b2f8fcd" title="uart_write" alt="" coords="698,107,777,133"/>
+</map>

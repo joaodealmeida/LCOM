@@ -1,0 +1,6 @@
+<map id="multiplayer_receive" name="multiplayer_receive">
+<area shape="rect" id="node2" href="$test7_8c.html#a4255d896c3e9986d0f223ac42b580629" title="receive data " alt="" coords="237,31,328,57"/>
+<area shape="rect" id="node5" href="$group__multiplayer_sync.html#ga4d86e7539793e6f1111a6a1bf8c88dd5" title="multiplayer_reset_receivedInfo" alt="" coords="185,81,380,108"/>
+<area shape="rect" id="node3" href="$test7_8c.html#a6fbf6c303de0feab7f434af1789685f3" title="wait_to_be_ready" alt="" coords="428,5,551,32"/>
+<area shape="rect" id="node4" href="$uart_8c.html#ab8c01f24eaf61cedda37d4c819ef6ddb" title="uart_read" alt="" coords="599,31,675,57"/>
+</map>

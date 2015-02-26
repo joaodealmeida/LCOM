@@ -1,0 +1,9 @@
+<map id="multiplayer_syncGameInit" name="multiplayer_syncGameInit">
+<area shape="rect" id="node2" href="$test7_8c.html#aacfbb44cbc94636f6261db20d7b60f0c" title="uart_send" alt="" coords="252,25,331,51"/>
+<area shape="rect" id="node6" href="$group__multiplayer_sync.html#gae291df672f0e325fc9e6de13b4002895" title="multiplayer_receive" alt="" coords="225,75,357,102"/>
+<area shape="rect" id="node8" href="$group__multiplayer_sync.html#ga4d86e7539793e6f1111a6a1bf8c88dd5" title="multiplayer_reset_receivedInfo" alt="" coords="405,126,600,153"/>
+<area shape="rect" id="node3" href="$test7_8c.html#a6fbf6c303de0feab7f434af1789685f3" title="wait_to_be_ready" alt="" coords="648,25,771,51"/>
+<area shape="rect" id="node5" href="$uart_8c.html#a00cc57497344a6ca7aeb747b4b2f8fcd" title="uart_write" alt="" coords="463,25,542,51"/>
+<area shape="rect" id="node4" href="$uart_8c.html#ab8c01f24eaf61cedda37d4c819ef6ddb" title="uart_read" alt="" coords="819,50,895,77"/>
+<area shape="rect" id="node7" href="$test7_8c.html#a4255d896c3e9986d0f223ac42b580629" title="receive data " alt="" coords="457,75,548,102"/>
+</map>

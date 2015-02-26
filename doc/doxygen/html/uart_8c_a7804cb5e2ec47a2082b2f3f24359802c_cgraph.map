@@ -1,0 +1,6 @@
+<map id="uart_set_divisor_latch" name="uart_set_divisor_latch">
+<area shape="rect" id="node2" href="$uart_8c.html#a9ec24c108ffd70d9d6041a453f5021cf" title="uart_set_dlab" alt="" coords="207,56,307,83"/>
+<area shape="rect" id="node4" href="$uart_8c.html#a00cc57497344a6ca7aeb747b4b2f8fcd" title="uart_write" alt="" coords="363,56,441,83"/>
+<area shape="rect" id="node5" href="$uart_8c.html#a4f50f7fa90f431eeceea3f0688add830" title="uart_unset_dlab" alt="" coords="200,5,315,32"/>
+<area shape="rect" id="node3" href="$uart_8c.html#ab8c01f24eaf61cedda37d4c819ef6ddb" title="uart_read" alt="" coords="364,5,440,32"/>
+</map>

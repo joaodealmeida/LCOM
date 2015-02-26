@@ -1,0 +1,4 @@
+<map id="multiplayer_syncSeed" name="multiplayer_syncSeed">
+<area shape="rect" id="node2" href="$group__multiplayer_sync.html#ga80cea4338cfe56d34a6920c26cf46174" title="sendSeed" alt="" coords="204,5,284,32"/>
+<area shape="rect" id="node3" href="$group__multiplayer_sync.html#ga3cb4aba98047655aa72c54980d7ca317" title="getSeed" alt="" coords="209,56,279,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="pointInsideCircle" name="pointInsideCircle">
+<area shape="rect" id="node2" href="$group__vector2.html#ga5d7c1c61bdaff7731aacb313ada4fd8c" title="find vector length squared " alt="" coords="171,5,300,32"/>
+<area shape="rect" id="node3" href="$group__vector2.html#ga1f198ae5fac52e166d9ebf84e6be4d4d" title="(a&#45;b) subtract 2 vectors " alt="" coords="208,56,263,83"/>
+<area shape="rect" id="node4" href="$group__vector2.html#gab674b6196647f7f49a84b1de7e1a3d26" title="creates a vector (x,y) " alt="" coords="348,56,415,83"/>
+</map>

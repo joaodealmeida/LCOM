@@ -1,0 +1,6 @@
+<map id="Mouse_int_handler_temp" name="Mouse_int_handler_temp">
+<area shape="rect" id="node2" href="$mouse_8c.html#ab8998b982f805d5f5c4cc0a02cabaf5d" title="Mouse handler to be use in generic handler. " alt="" coords="220,31,351,57"/>
+<area shape="rect" id="node3" href="$mouse_8c.html#a74937ba1846bb7036e9ccf9c8f6a66e3" title="Mouse_read_packet_byte" alt="" coords="399,5,569,32"/>
+<area shape="rect" id="node5" href="$mouse_8c.html#a7011b3c8bafe851c6f8e24adcbcb0762" title="Prints packet in a user friendly way. " alt="" coords="409,56,559,83"/>
+<area shape="rect" id="node4" href="$_utilities_8c.html#adb9c8b3e37e323ea83f00a6789867a97" title="read byte from data register &gt; sys_in(DATA_REG,&quot;ret&quot;) " alt="" coords="617,5,775,32"/>
+</map>

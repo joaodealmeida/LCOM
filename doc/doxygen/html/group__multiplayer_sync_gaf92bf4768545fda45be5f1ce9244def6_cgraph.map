@@ -1,0 +1,6 @@
+<map id="multiplayer_send_inGameInfo" name="multiplayer_send_inGameInfo">
+<area shape="rect" id="node2" href="$test7_8c.html#aacfbb44cbc94636f6261db20d7b60f0c" title="uart_send" alt="" coords="245,31,324,57"/>
+<area shape="rect" id="node3" href="$test7_8c.html#a6fbf6c303de0feab7f434af1789685f3" title="wait_to_be_ready" alt="" coords="372,5,495,32"/>
+<area shape="rect" id="node5" href="$uart_8c.html#a00cc57497344a6ca7aeb747b4b2f8fcd" title="uart_write" alt="" coords="394,56,473,83"/>
+<area shape="rect" id="node4" href="$uart_8c.html#ab8c01f24eaf61cedda37d4c819ef6ddb" title="uart_read" alt="" coords="543,5,619,32"/>
+</map>

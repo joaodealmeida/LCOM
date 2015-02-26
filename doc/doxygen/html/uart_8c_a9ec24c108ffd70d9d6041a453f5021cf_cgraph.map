@@ -1,0 +1,4 @@
+<map id="uart_set_dlab" name="uart_set_dlab">
+<area shape="rect" id="node2" href="$uart_8c.html#ab8c01f24eaf61cedda37d4c819ef6ddb" title="uart_read" alt="" coords="155,5,231,32"/>
+<area shape="rect" id="node3" href="$uart_8c.html#a00cc57497344a6ca7aeb747b4b2f8fcd" title="uart_write" alt="" coords="153,56,232,83"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="initDevices" name="initDevices">
+<area shape="rect" id="node2" href="$_utilities_8c.html#a488d052723cda639f40d6929219769a2" title="Initializes Interrupt List. " alt="" coords="163,5,270,32"/>
+<area shape="rect" id="node3" href="$_utilities_8c.html#a00fafe8223fcfca747e6e3922abcedcf" title="add I/O too Interrupt List " alt="" coords="165,56,269,83"/>
+<area shape="rect" id="node4" href="$mouse_8c.html#ab8998b982f805d5f5c4cc0a02cabaf5d" title="Mouse handler to be use in generic handler. " alt="" coords="151,107,282,133"/>
+<area shape="rect" id="node8" href="$mouse_8c.html#a3e2c1e10917d934d84529a7e616c4f7b" title="Mouse_subscribe_int" alt="" coords="144,157,289,184"/>
+<area shape="rect" id="node9" href="$mouse_8c.html#ad073466bfeaa3edd44051c365856a448" title="Unsubscribes Ps/2 (Mouse) interrupts. " alt="" coords="137,208,296,235"/>
+<area shape="rect" id="node10" href="$kbd_8c.html#ad58cbd5decc05856b96b6a0df993bffc" title="Keyboard interrupt handler. " alt="" coords="159,259,274,285"/>
+<area shape="rect" id="node12" href="$kbd_8c.html#a626583bdeb52b87612a180bc2d2dc0b0" title="Subscribes and enables Keyboard interrupts. " alt="" coords="152,309,281,336"/>
+<area shape="rect" id="node13" href="$kbd_8c.html#a39c81cdc1d8a4dbdd1cd83995ac161ae" title="Unsubscribes Keyboard interrupts. " alt="" coords="145,360,288,387"/>
+<area shape="rect" id="node14" href="$group__timer.html#ga05141fb32bbc3bf7b55f70a6e5d8ad92" title="Timer 0 interrupt handler. " alt="" coords="156,411,277,437"/>
+<area shape="rect" id="node15" href="$group__timer.html#ga4c5d9f47323eda494cfd826f6d62eec9" title="Subscribes and enables Timer 0 interrupts. " alt="" coords="149,461,284,488"/>
+<area shape="rect" id="node16" href="$group__timer.html#gab9eea51549744bca5c5c923b388bb4ee" title="Unsubscribes Timer 0 interrupts. " alt="" coords="142,512,291,539"/>
+<area shape="rect" id="node17" href="$_utilities_8c.html#a858043fb04f46285b2e0f99ddde447d9" title="Subscribes Interrupts on the List. " alt="" coords="151,563,283,589"/>
+<area shape="rect" id="node18" href="$mouse_8c.html#a145dcc1b210d20f1797b13c706ac1455" title="Enables stream mode N packages. " alt="" coords="140,613,293,640"/>
+<area shape="rect" id="node5" href="$mouse_8c.html#a74937ba1846bb7036e9ccf9c8f6a66e3" title="Mouse_read_packet_byte" alt="" coords="344,107,515,133"/>
+<area shape="rect" id="node7" href="$mouse_8c.html#a7011b3c8bafe851c6f8e24adcbcb0762" title="Prints packet in a user friendly way. " alt="" coords="354,157,505,184"/>
+<area shape="rect" id="node6" href="$_utilities_8c.html#adb9c8b3e37e323ea83f00a6789867a97" title="read byte from data register &gt; sys_in(DATA_REG,&quot;ret&quot;) " alt="" coords="563,221,720,248"/>
+<area shape="rect" id="node11" href="$kbd_8c.html#aea4050983e69931c6d14973805d24616" title="Read scancode. " alt="" coords="391,259,468,285"/>
+<area shape="rect" id="node19" href="$mouse_8c.html#ad12b54c10c894563ba05e2648dc76597" title="send command to Mouse " alt="" coords="352,500,507,527"/>
+<area shape="rect" id="node20" href="$_utilities_8c.html#a0c95caa20cc4239b851633cc3a32a75e" title="write to given port &gt; sys_out(port,arg) " alt="" coords="608,500,675,527"/>
+</map>

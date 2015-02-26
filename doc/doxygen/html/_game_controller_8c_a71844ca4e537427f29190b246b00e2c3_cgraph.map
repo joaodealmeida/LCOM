@@ -1,0 +1,25 @@
+<map id="gameSeedInit" name="gameSeedInit">
+<area shape="rect" id="node2" href="$group__multiplayer_sync.html#gade71e3635c24b75993e3ad7021851fac" title="returns usertype (host or client) " alt="" coords="165,5,330,32"/>
+<area shape="rect" id="node3" href="$rtc_8c.html#aa1cd7a713139deff41f2ab58414d6afe" title="rtc_generate_seed" alt="" coords="183,56,312,83"/>
+<area shape="rect" id="node5" href="$group__multiplayer_sync.html#ga0dee3395180b05d44e2989bc3e160f48" title="sync the seed given to be used by ran() func host sends seed and client receives it ..." alt="" coords="172,107,323,133"/>
+<area shape="rect" id="node14" href="$group__timer.html#gada4efbb5c88275795526fc45f0814aa3" title="Configures a timer to generate a square wave. " alt="" coords="186,157,309,184"/>
+<area shape="rect" id="node16" href="$group__timer.html#ga9aaf88cdf2b1dcdc88c8652330d5cc7b" title="resetTick" alt="" coords="210,208,285,235"/>
+<area shape="rect" id="node17" href="$_utilities_8c.html#a9363d5e3f8ada43cc4ee0d9ee6557d4a" title="generic interrupt handler " alt="" coords="191,259,304,285"/>
+<area shape="rect" id="node19" href="$key_states_8c.html#abc1315c4e5ac5c9738be7fbc9f61320a" title="update key states and previous key states " alt="" coords="176,309,319,336"/>
+<area shape="rect" id="node20" href="$kbd_8c.html#ad2e9b487688a026009c9a94f6b42716b" title="returns the last scan code read " alt="" coords="155,360,340,387"/>
+<area shape="rect" id="node21" href="$group__timer.html#gae5dcf0b0379784647f72ff56af072e0d" title="getTick" alt="" coords="215,411,279,437"/>
+<area shape="rect" id="node22" href="$key_states_8c.html#a3971e0967e352e38b91108eb59abdfa9" title="check if key has just been pressed " alt="" coords="191,461,303,488"/>
+<area shape="rect" id="node23" href="$_game_controller_8c.html#a36771904688ec6e6464d282b7de25ba5" title="updateOnInterval" alt="" coords="188,512,307,539"/>
+<area shape="rect" id="node24" href="$group__multiplayer_sync.html#gaf19c8a61436454eec45d985643f43905" title="getSeed" alt="" coords="423,436,493,463"/>
+<area shape="rect" id="node4" href="$rtc_8c.html#a9775a29b79409a0a21b48a35bf15a990" title="rtc_read_reg" alt="" coords="411,56,505,83"/>
+<area shape="rect" id="node6" href="$group__multiplayer_sync.html#ga8e2132180c970623d16936087d37f617" title="sendSeed" alt="" coords="418,107,498,133"/>
+<area shape="rect" id="node11" href="$group__multiplayer_sync.html#gae291df672f0e325fc9e6de13b4002895" title="multiplayer_receive" alt="" coords="392,157,524,184"/>
+<area shape="rect" id="node7" href="$test7_8c.html#aacfbb44cbc94636f6261db20d7b60f0c" title="uart_send" alt="" coords="634,107,713,133"/>
+<area shape="rect" id="node8" href="$test7_8c.html#a6fbf6c303de0feab7f434af1789685f3" title="wait_to_be_ready" alt="" coords="819,132,941,159"/>
+<area shape="rect" id="node10" href="$uart_8c.html#a00cc57497344a6ca7aeb747b4b2f8fcd" title="uart_write" alt="" coords="841,81,919,108"/>
+<area shape="rect" id="node9" href="$uart_8c.html#ab8c01f24eaf61cedda37d4c819ef6ddb" title="uart_read" alt="" coords="989,157,1065,184"/>
+<area shape="rect" id="node12" href="$test7_8c.html#a4255d896c3e9986d0f223ac42b580629" title="receive data " alt="" coords="628,157,719,184"/>
+<area shape="rect" id="node13" href="$group__multiplayer_sync.html#ga4d86e7539793e6f1111a6a1bf8c88dd5" title="multiplayer_reset_receivedInfo" alt="" coords="576,321,771,348"/>
+<area shape="rect" id="node15" href="$group__timer.html#ga8eb3357bc05265afc4bea5bbbb480a53" title="Reads the input timer configuration via read&#45;back command. " alt="" coords="405,208,511,235"/>
+<area shape="rect" id="node18" href="$_utilities_8c.html#aacff4eae3295196da60e495e719f7e38" title="Auxiliar function for generic handler. Calls the correct handler on the Interrupt&#39;s List..." alt="" coords="388,259,528,285"/>
+</map>

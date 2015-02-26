@@ -1,0 +1,6 @@
+<map id="initEndScreen" name="initEndScreen">
+<area shape="rect" id="node2" href="$pixmap_8c.html#a05b2c5e4dbcaffa701703b50a2111783" title="read xmp copied from Joao Cardoso&#39;s read_xpm.c (jcard@fe.up.pt) " alt="" coords="199,5,278,32"/>
+<area shape="rect" id="node3" href="$group__sprite.html#ga7a040c0905582985fec44de717cda993" title="creates a static sprite " alt="" coords="175,56,302,83"/>
+<area shape="rect" id="node4" href="$pixmap_8c.html#ad6e134c46a18115a571fc1ae06681301" title="add pixmap to a list containing all loaded pixmaps " alt="" coords="195,107,282,133"/>
+<area shape="rect" id="node5" href="$group__multiplayer_sync.html#gade71e3635c24b75993e3ad7021851fac" title="returns usertype (host or client) " alt="" coords="156,157,321,184"/>
+</map>

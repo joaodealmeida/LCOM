@@ -1,0 +1,5 @@
+<map id="drawBoat" name="drawBoat">
+<area shape="rect" id="node2" href="$group__sprite.html#gab6595b471cb5fb7c1b915c8743d58100" title="Draws given sprite on buffer. " alt="" coords="129,31,272,57"/>
+<area shape="rect" id="node3" href="$pixmap_8c.html#acc10e1fded92bdb04800ff9ff29cdada" title="add pixmap to a list containing all loaded pixmaps " alt="" coords="336,5,420,32"/>
+<area shape="rect" id="node4" href="$buffer_8c.html#aed26f97e1985d3ee24b0e92754f70bb9" title="buffer_drawPixel" alt="" coords="320,56,436,83"/>
+</map>

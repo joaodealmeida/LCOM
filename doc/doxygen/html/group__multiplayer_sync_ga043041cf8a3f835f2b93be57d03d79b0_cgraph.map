@@ -1,0 +1,11 @@
+<map id="multiplayer_defineUserType" name="multiplayer_defineUserType">
+<area shape="rect" id="node2" href="$test7_8c.html#a06dad999696d9cb0130e8cc944a7e871" title="uart_startMode" alt="" coords="235,174,344,201"/>
+<area shape="rect" id="node3" href="$uart_8c.html#a936c54992b5d337fdcf7d15f18dd630b" title="uart_get_config" alt="" coords="392,149,503,175"/>
+<area shape="rect" id="node4" href="$uart_8c.html#ab8c01f24eaf61cedda37d4c819ef6ddb" title="uart_read" alt="" coords="909,73,985,99"/>
+<area shape="rect" id="node7" href="$uart_8c.html#a00cc57497344a6ca7aeb747b4b2f8fcd" title="uart_write" alt="" coords="908,250,987,277"/>
+<area shape="rect" id="node9" href="$uart_8c.html#a0d0040175477b945e0bd35de96dafeff" title="uart_set_config" alt="" coords="392,199,503,226"/>
+<area shape="rect" id="node5" href="$uart_8c.html#ac9f9dcaf49cda22400b5c797b8a86bf1" title="uart_get_divisor_latch" alt="" coords="551,149,697,175"/>
+<area shape="rect" id="node6" href="$uart_8c.html#a9ec24c108ffd70d9d6041a453f5021cf" title="uart_set_dlab" alt="" coords="753,149,853,175"/>
+<area shape="rect" id="node8" href="$uart_8c.html#a4f50f7fa90f431eeceea3f0688add830" title="uart_unset_dlab" alt="" coords="745,199,860,226"/>
+<area shape="rect" id="node10" href="$uart_8c.html#a7804cb5e2ec47a2082b2f3f24359802c" title="uart_set_divisor_latch" alt="" coords="551,199,697,226"/>
+</map>

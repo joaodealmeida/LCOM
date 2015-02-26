@@ -1,0 +1,7 @@
+<map id="uart_get_config" name="uart_get_config">
+<area shape="rect" id="node2" href="$uart_8c.html#ab8c01f24eaf61cedda37d4c819ef6ddb" title="uart_read" alt="" coords="523,56,599,83"/>
+<area shape="rect" id="node3" href="$uart_8c.html#ac9f9dcaf49cda22400b5c797b8a86bf1" title="uart_get_divisor_latch" alt="" coords="164,56,311,83"/>
+<area shape="rect" id="node4" href="$uart_8c.html#a9ec24c108ffd70d9d6041a453f5021cf" title="uart_set_dlab" alt="" coords="366,132,466,159"/>
+<area shape="rect" id="node6" href="$uart_8c.html#a4f50f7fa90f431eeceea3f0688add830" title="uart_unset_dlab" alt="" coords="359,81,473,108"/>
+<area shape="rect" id="node5" href="$uart_8c.html#a00cc57497344a6ca7aeb747b4b2f8fcd" title="uart_write" alt="" coords="521,107,600,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="createBoat" name="createBoat">
+<area shape="rect" id="node2" href="$pixmap_8c.html#a05b2c5e4dbcaffa701703b50a2111783" title="read xmp copied from Joao Cardoso&#39;s read_xpm.c (jcard@fe.up.pt) " alt="" coords="167,5,245,32"/>
+<area shape="rect" id="node3" href="$group__vector2.html#gab674b6196647f7f49a84b1de7e1a3d26" title="creates a vector (x,y) " alt="" coords="173,56,239,83"/>
+<area shape="rect" id="node4" href="$group__sprite.html#ga7a040c0905582985fec44de717cda993" title="creates a static sprite " alt="" coords="143,107,269,133"/>
+<area shape="rect" id="node5" href="$pixmap_8c.html#ad6e134c46a18115a571fc1ae06681301" title="add pixmap to a list containing all loaded pixmaps " alt="" coords="163,157,249,184"/>
+<area shape="rect" id="node6" href="$group__sprite.html#ga1fc732c75c2805ffdaf5fac59c6c7ac5" title="adds a sprite to drawList " alt="" coords="139,208,273,235"/>
+</map>

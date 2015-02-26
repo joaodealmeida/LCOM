@@ -1,0 +1,7 @@
+<map id="stopDevices" name="stopDevices">
+<area shape="rect" id="node2" href="$_utilities_8c.html#adf7355db6a2df84d50dfe9063e5a7a2c" title="Unsubscribes Interrupts on the List. " alt="" coords="149,5,296,32"/>
+<area shape="rect" id="node3" href="$mouse_8c.html#ad12b54c10c894563ba05e2648dc76597" title="send command to Mouse " alt="" coords="145,56,300,83"/>
+<area shape="rect" id="node6" href="$_utilities_8c.html#a404e63f5c57ed9849ffac4a945dbcabb" title="Free&#39;s Interrupt List. " alt="" coords="167,107,278,133"/>
+<area shape="rect" id="node4" href="$_utilities_8c.html#a0c95caa20cc4239b851633cc3a32a75e" title="write to given port &gt; sys_out(port,arg) " alt="" coords="393,31,460,57"/>
+<area shape="rect" id="node5" href="$_utilities_8c.html#adb9c8b3e37e323ea83f00a6789867a97" title="read byte from data register &gt; sys_in(DATA_REG,&quot;ret&quot;) " alt="" coords="348,81,505,108"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="deleteSharks" name="deleteSharks">
+<area shape="rect" id="node2" href="$group__shark.html#ga84fc7c0ca265890027c7e647ef5e9063" title="remove shark at index " alt="" coords="152,31,249,57"/>
+<area shape="rect" id="node3" href="$group__sprite.html#gaae9c9b35bf0dbfcc558801f7c24e064d" title="remove from the list of sprites to be draw does not free memory used by sprite " alt="" coords="297,5,475,32"/>
+<area shape="rect" id="node5" href="$group__sprite.html#ga66e1c6ad2693becdd23dbeccfb063b82" title="destroys a sprite and free mem " alt="" coords="341,56,431,83"/>
+<area shape="rect" id="node4" href="$sprite_8c.html#a6ef2e8d545522aec94c6630c423a585d" title="findSprite" alt="" coords="523,5,599,32"/>
+</map>

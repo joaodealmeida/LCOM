@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['b',['b',['../structushort__t_1_1b.html',1,'ushort_t']]],
+  ['b',['b',['../unionushort__t.html#a9e139260c3e177bd2c48629528d53bb2',1,'ushort_t']]],
+  ['banksize',['BankSize',['../struct____attribute____.html#aa1307567cbc12f9c5c724b7457be14ad',1,'__attribute__']]],
+  ['base2pb',['BASE2PB',['../video__gr_8c.html#a092cb7b6fa4d44a95efb2a9560e24340',1,'video_gr.c']]],
+  ['bios_5fvideoservice',['BIOS_VIDEOSERVICE',['../vbe_8h.html#ad77eb6e080ae035ad28763345298092e',1,'vbe.h']]],
+  ['bit',['BIT',['../i8042_8h.html#a3a8ea58898cb58fc96013383d39f482c',1,'BIT():&#160;i8042.h'],['../group__i8254.html#ga3a8ea58898cb58fc96013383d39f482c',1,'BIT():&#160;i8254.h'],['../video__gr_8h.html#a3a8ea58898cb58fc96013383d39f482c',1,'BIT():&#160;video_gr.h']]],
+  ['bitrate',['bitRate',['../structuart_conf.html#a18504d00583c2f5efdb64cded7996bb0',1,'uartConf::bitRate()'],['../uart_8h.html#ab6306d73284b6aa14e05d3237a075c2d',1,'BitRate():&#160;uart.h']]],
+  ['bits',['bits',['../structuart_conf.html#ad9bed7eb764d5140458d3db0ad8f7f07',1,'uartConf::bits()'],['../test7_8c.html#a486e8519910da6db9b38a1c3ff7e8238',1,'bits():&#160;test7.c']]],
+  ['bits_5fper_5fpixel',['BITS_PER_PIXEL',['../video__gr_8c.html#a35faf89171af20cd21088c37d62bb7ee',1,'video_gr.c']]],
+  ['bitsperpixel',['BitsPerPixel',['../struct____attribute____.html#abd9c59af53589a54188bb57ada5c5f26',1,'__attribute__']]],
+  ['bluefieldposition',['BlueFieldPosition',['../struct____attribute____.html#ada852d5ed926757d24b5038a38e6292c',1,'__attribute__']]],
+  ['bluemasksize',['BlueMaskSize',['../struct____attribute____.html#ab5967602a79dcb7f0061195ffdaaa47a',1,'__attribute__']]],
+  ['bnknumberofimagepages',['BnkNumberOfImagePages',['../struct____attribute____.html#ad5820084f2b821b85a635df8394f0d9e',1,'__attribute__']]],
+  ['boat',['boat',['../group__boat.html#ga5fc0f0a570b78405bb1b5292d9a669b3',1,'boat():&#160;boat.h'],['../group__boat.html',1,'(Global Namespace)']]],
+  ['boat_2ec',['boat.c',['../boat_8c.html',1,'']]],
+  ['boat_2eh',['boat.h',['../boat_8h.html',1,'']]],
+  ['boattocheck',['boatToCheck',['../_game_controller_8c.html#a8283d38c3bcc1d2d7d0c2ae36e6146e2',1,'GameController.c']]],
+  ['buffer',['buffer',['../buffer_8c.html#a70e7ad2e1a45c8db5fba9ad4778bd400',1,'buffer.c']]],
+  ['buffer_2ec',['buffer.c',['../buffer_8c.html',1,'']]],
+  ['buffer_2eh',['buffer.h',['../buffer_8h.html',1,'']]],
+  ['buffer_5fdrawpixel',['buffer_drawPixel',['../buffer_8c.html#aed26f97e1985d3ee24b0e92754f70bb9',1,'buffer_drawPixel(unsigned int index, unsigned char color):&#160;buffer.c'],['../buffer_8h.html#aed26f97e1985d3ee24b0e92754f70bb9',1,'buffer_drawPixel(unsigned int index, unsigned char color):&#160;buffer.c']]],
+  ['buttonsradius',['buttonsRadius',['../_end_screen_8c.html#a780e934ddb4a73331e31e5d6f4750217',1,'EndScreen.c']]],
+  ['bytesperscanline',['BytesPerScanLine',['../struct____attribute____.html#a3c9eb4b107ecee102c6e63f9054ede06',1,'__attribute__']]]
+];

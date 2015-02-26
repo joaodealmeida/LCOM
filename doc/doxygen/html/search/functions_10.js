@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['uart_5fget_5fconfig',['uart_get_config',['../uart_8c.html#a936c54992b5d337fdcf7d15f18dd630b',1,'uart_get_config(unsigned long port, uartConf *config):&#160;uart.c'],['../uart_8h.html#a936c54992b5d337fdcf7d15f18dd630b',1,'uart_get_config(unsigned long port, uartConf *config):&#160;uart.c']]],
+  ['uart_5fget_5fdivisor_5flatch',['uart_get_divisor_latch',['../uart_8c.html#ac9f9dcaf49cda22400b5c797b8a86bf1',1,'uart_get_divisor_latch(unsigned long port, ushort_t *divisor_latch):&#160;uart.c'],['../uart_8h.html#a23e8e34128346a092fb11eecee16a90a',1,'uart_get_divisor_latch(unsigned long port, ushort_t *dl):&#160;uart.c']]],
+  ['uart_5fread',['uart_read',['../uart_8c.html#ab8c01f24eaf61cedda37d4c819ef6ddb',1,'uart_read(unsigned long port_addr, unsigned long offset, unsigned long *buffer):&#160;uart.c'],['../uart_8h.html#ab8c01f24eaf61cedda37d4c819ef6ddb',1,'uart_read(unsigned long port_addr, unsigned long offset, unsigned long *buffer):&#160;uart.c']]],
+  ['uart_5freceive',['uart_receive',['../test7_8c.html#a4255d896c3e9986d0f223ac42b580629',1,'uart_receive(unsigned char *str, unsigned int *numberOfBytesRead):&#160;test7.c'],['../test7_8h.html#a4255d896c3e9986d0f223ac42b580629',1,'uart_receive(unsigned char *str, unsigned int *numberOfBytesRead):&#160;test7.c']]],
+  ['uart_5fsend',['uart_send',['../test7_8c.html#aacfbb44cbc94636f6261db20d7b60f0c',1,'uart_send(unsigned int dataLenght, unsigned char *data):&#160;test7.c'],['../test7_8h.html#aacfbb44cbc94636f6261db20d7b60f0c',1,'uart_send(unsigned int dataLenght, unsigned char *data):&#160;test7.c']]],
+  ['uart_5fset_5fconfig',['uart_set_config',['../uart_8c.html#a0d0040175477b945e0bd35de96dafeff',1,'uart_set_config(unsigned long port, uartConf config):&#160;uart.c'],['../uart_8h.html#a0d0040175477b945e0bd35de96dafeff',1,'uart_set_config(unsigned long port, uartConf config):&#160;uart.c']]],
+  ['uart_5fset_5fdivisor_5flatch',['uart_set_divisor_latch',['../uart_8c.html#a7804cb5e2ec47a2082b2f3f24359802c',1,'uart_set_divisor_latch(unsigned long port, ushort_t divisor_latch):&#160;uart.c'],['../uart_8h.html#ac9406bfd416c42dd92d345ea13db2cbb',1,'uart_set_divisor_latch(unsigned long port, ushort_t dl):&#160;uart.c']]],
+  ['uart_5fset_5fdlab',['uart_set_dlab',['../uart_8c.html#a9ec24c108ffd70d9d6041a453f5021cf',1,'uart_set_dlab(unsigned long port):&#160;uart.c'],['../uart_8h.html#a9ec24c108ffd70d9d6041a453f5021cf',1,'uart_set_dlab(unsigned long port):&#160;uart.c']]],
+  ['uart_5fstartmode',['uart_startMode',['../test7_8c.html#a06dad999696d9cb0130e8cc944a7e871',1,'uart_startMode():&#160;test7.c'],['../test7_8h.html#a06dad999696d9cb0130e8cc944a7e871',1,'uart_startMode():&#160;test7.c']]],
+  ['uart_5funset_5fdlab',['uart_unset_dlab',['../uart_8c.html#a4f50f7fa90f431eeceea3f0688add830',1,'uart_unset_dlab(unsigned long port):&#160;uart.c'],['../uart_8h.html#a4f50f7fa90f431eeceea3f0688add830',1,'uart_unset_dlab(unsigned long port):&#160;uart.c']]],
+  ['uart_5fwrite',['uart_write',['../uart_8c.html#a00cc57497344a6ca7aeb747b4b2f8fcd',1,'uart_write(unsigned long port_addr, unsigned long offset, unsigned long buffer):&#160;uart.c'],['../uart_8h.html#a00cc57497344a6ca7aeb747b4b2f8fcd',1,'uart_write(unsigned long port_addr, unsigned long offset, unsigned long buffer):&#160;uart.c']]],
+  ['unsubscribeinterrupts',['unsubscribeInterrupts',['../_utilities_8c.html#adf7355db6a2df84d50dfe9063e5a7a2c',1,'unsubscribeInterrupts():&#160;Utilities.c'],['../_utilities_8h.html#adf7355db6a2df84d50dfe9063e5a7a2c',1,'unsubscribeInterrupts():&#160;Utilities.c']]],
+  ['update_5fgameover',['update_gameover',['../_game_controller_8c.html#aa2ff2d50f75e9882ac7c38472b95b6c5',1,'GameController.c']]],
+  ['update_5fingame',['update_ingame',['../_game_controller_8c.html#a6ac9eb0d8e7ed62e232ab0effc549076',1,'GameController.c']]],
+  ['update_5fsyncgameinit',['update_syncGameInit',['../_game_controller_8c.html#a387ca82147f5bdc042483f652d5de6b1',1,'GameController.c']]],
+  ['updateboat',['updateBoat',['../group__boat.html#ga711e86c6f4494b40db05a622d50de768',1,'boat.c']]],
+  ['updategame',['updateGame',['../_game_controller_8c.html#a7f4225f58bcac0e5a13384869196d195',1,'updateGame(GameController *game):&#160;GameController.c'],['../_game_controller_8h.html#a97feb8702b4bc47a3dee7bf3b220da2b',1,'updateGame():&#160;GameController.h']]],
+  ['updateoninterval',['updateOnInterval',['../_game_controller_8c.html#a36771904688ec6e6464d282b7de25ba5',1,'GameController.c']]],
+  ['updatescope',['updateScope',['../scope_8c.html#a00469725b5c935038f5b701ac4d4fa93',1,'updateScope(float xDelta, float yDelta):&#160;scope.c'],['../scope_8h.html#a00469725b5c935038f5b701ac4d4fa93',1,'updateScope(float xDelta, float yDelta):&#160;scope.c']]],
+  ['updateshark',['updateShark',['../group__shark.html#gadb9b658a318b7b26701bcf1a3ccef8b3',1,'shark.c']]],
+  ['updatesharks',['updateSharks',['../group__shark.html#ga12b91a0069537a6a66ba4f9036ef7309',1,'shark.c']]]
+];

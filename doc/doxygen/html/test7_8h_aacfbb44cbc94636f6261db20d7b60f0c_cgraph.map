@@ -1,0 +1,5 @@
+<map id="uart_send" name="uart_send">
+<area shape="rect" id="node2" href="$test7_8c.html#a6fbf6c303de0feab7f434af1789685f3" title="wait_to_be_ready" alt="" coords="132,5,255,32"/>
+<area shape="rect" id="node4" href="$uart_8c.html#a00cc57497344a6ca7aeb747b4b2f8fcd" title="uart_write" alt="" coords="154,56,233,83"/>
+<area shape="rect" id="node3" href="$uart_8c.html#ab8c01f24eaf61cedda37d4c819ef6ddb" title="uart_read" alt="" coords="303,5,379,32"/>
+</map>

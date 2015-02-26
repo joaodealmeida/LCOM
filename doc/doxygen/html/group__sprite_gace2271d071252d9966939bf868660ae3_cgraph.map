@@ -1,0 +1,4 @@
+<map id="draw_sprite_onScreen" name="draw_sprite_onScreen">
+<area shape="rect" id="node2" href="$pixmap_8c.html#acc10e1fded92bdb04800ff9ff29cdada" title="add pixmap to a list containing all loaded pixmaps " alt="" coords="204,5,288,32"/>
+<area shape="rect" id="node3" href="$graphics_8c.html#a4ac22459d949611f5d2eeeadd61fdbac" title="setPixel" alt="" coords="211,56,281,83"/>
+</map>

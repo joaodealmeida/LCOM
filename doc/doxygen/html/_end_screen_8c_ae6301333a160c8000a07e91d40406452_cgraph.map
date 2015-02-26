@@ -1,0 +1,4 @@
+<map id="freeEndScreen" name="freeEndScreen">
+<area shape="rect" id="node2" href="$group__sprite.html#ga66e1c6ad2693becdd23dbeccfb063b82" title="destroys a sprite and free mem " alt="" coords="197,5,288,32"/>
+<area shape="rect" id="node3" href="$group__multiplayer_sync.html#gade71e3635c24b75993e3ad7021851fac" title="returns usertype (host or client) " alt="" coords="160,56,325,83"/>
+</map>
